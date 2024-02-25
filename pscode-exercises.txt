@@ -37,4 +37,3 @@ B) 1+2+3+4+5 / 5 = b  Add together all numbers and divide by 5 Average=2.4
 C) Order numbers smallest to largest. Print 1st number as 'minimum'. Print last number as maximum. 
 D) Average of the 5 numbers is 2.4 The answer for C is 'minimum' = 1 'maximum' = 2
 
-(Your pseudocode here)
